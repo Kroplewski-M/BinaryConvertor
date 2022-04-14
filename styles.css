@@ -1,0 +1,15 @@
+.main{
+    display: grid;
+    justify-content: center;
+    margin-top: 30vh; ;
+}
+#submit{
+    padding: 11px;
+    width: 50%;
+    margin-left: 7vw;
+}
+.answer{
+    display: grid;
+    justify-content: center;
+    margin-top: 10vh;
+}
